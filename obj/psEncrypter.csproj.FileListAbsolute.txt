@@ -1,0 +1,32 @@
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\bin\Debug\psEncrypter.exe
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\bin\Debug\psEncrypter.pdb
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\ResolveAssemblyReference.cache
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\psEncrypter.Properties.Resources.resources
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\psEncrypter.csproj.GenerateResource.Cache
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\psEncrypter.exe
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\psEncrypter.pdb
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Debug\psEncrypter.psEncrypter.resources
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\bin\Release\psEncrypter.exe
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\bin\Release\psEncrypter.pdb
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\ResolveAssemblyReference.cache
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\psEncrypter.psEncrypter.resources
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\psEncrypter.Properties.Resources.resources
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\psEncrypter.csproj.GenerateResource.Cache
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\psEncrypter.exe
+C:\ProjectLibrary\JoshH\tmp\psEncrypter\obj\Release\psEncrypter.pdb
+C:\PersonalProjects\psEncrypter\obj\Release\psEncrypter.exe
+C:\PersonalProjects\psEncrypter\obj\Release\psEncrypter.pdb
+C:\PersonalProjects\psEncrypter\bin\Release\psEncrypter.exe
+C:\PersonalProjects\psEncrypter\bin\Release\psEncrypter.pdb
+C:\PersonalProjects\psEncrypter\obj\Release\ResolveAssemblyReference.cache
+C:\PersonalProjects\psEncrypter\obj\Release\psEncrypter.psEncrypter.resources
+C:\PersonalProjects\psEncrypter\obj\Release\psEncrypter.Properties.Resources.resources
+C:\PersonalProjects\psEncrypter\obj\Release\psEncrypter.csproj.GenerateResource.Cache
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\psEncrypter.exe
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\psEncrypter.pdb
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\bin\Release\psEncrypter.exe
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\bin\Release\psEncrypter.pdb
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\psEncrypter.psEncrypter.resources
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\psEncrypter.Properties.Resources.resources
+C:\Documents and Settings\joshh\My Documents\GitHub\psEncrypter\obj\Release\psEncrypter.csproj.GenerateResource.Cache

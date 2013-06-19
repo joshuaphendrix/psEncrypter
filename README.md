@@ -1,0 +1,4 @@
+psEncrypter
+===========
+
+personal string encrypter
